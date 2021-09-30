@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate on anything to do with translating complicated data into compelling, accessible stories. I'm also interested in any projects concerning human-rights, data-journalism, or making music.
 
-- 📫 The best places to reach me are here, LinkedIn(https://www.linkedin.com/in/bgcody/), or via email (g.gordoncody@gmail.com)
+- 📫 The best places to reach me are here, LinkedIn(https://www.linkedin.com/in/bgcody/), or via email (b.gordoncody@gmail.com)
 
 <!---
 BenjaminGordonCody/BenjaminGordonCody is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
