@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BenjaminGordonCody. I'm a junior programmer and data-scientist looking for entry-level roles in the Manchester area. As well as the languages I can write in (Python, C, SQL, HTML, CSS, LUA) I also bring a background in creative-writing and graphic design from my previous work as an artist and author.
 
-- 👀 I’m interested in coding as a communicative medium! I get realy excited for clean, elegant code. I'm also very interested in using my data science toolset to reveal new stories from complicated datasets.
+- 👀 I’m interested in coding as a communicative medium! I get really excited for clean, elegant code. I'm also very interested in using my data science toolset to reveal new stories from complicated datasets.
 
 - 🌱 I’m currently studying an MSc in Computer Science with Big Data Analytics. I'm also undertaking short courses in data visualisation and communication.
 
